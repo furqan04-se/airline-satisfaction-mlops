@@ -1,0 +1,4 @@
+﻿git version 2.55.0.windows.5
+v20.20.0
+10.8.2
+Python 3.12.6
